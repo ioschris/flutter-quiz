@@ -3,6 +3,6 @@ This is a simple quiz application developed in Flutter. This project is apart of
 
 # Screenshots
 ![Main](https://i.ibb.co/3C6N26j/main.png)
-![Correct Response](https://ibb.co/hYJZ5WS)
-![Incorrect Response](https://ibb.co/883ZX3K)
-![Quiz Complete](https://ibb.co/3BMNvPK)
+![Correct Response](https://i.ibb.co/y4cYTyr/correct.png)
+![Incorrect Response](https://i.ibb.co/Yj9sb9R/incorrect.png)
+![Quiz Complete](https://i.ibb.co/Tmb81Ny/complete.png)
